@@ -297,8 +297,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Discussion', url='https://t.me/MSPdiscussion'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/MSPmoviesOffl')
+                        InlineKeyboardButton('Discussion', url='https://t.me/TamilPrime_LinkZz'),
+                        InlineKeyboardButton('Update Channel', url='https://t.me/TamilPrime_LinkZz')
                     ]
                     ]
                 
@@ -329,8 +329,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                         InlineKeyboardButton('Discussion', url='https://t.me/MSPdiscussion'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/MSPmoviesOffl')
+                         InlineKeyboardButton('Discussion', url='https://t.me/TamilPrime_LinkZz'),
+                        InlineKeyboardButton('Update Channel', url='https://t.me/TamilPrime_LinkZz')
                     ]
                     ]
                 
