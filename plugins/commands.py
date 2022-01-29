@@ -68,7 +68,7 @@ async def start(bot, cmd):
                 buttons = [
                     [
                         InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-                        InlineKeyboardButton('Discussion', url='https://t.me/MSPdiscussion')
+                        InlineKeyboardButton('Discussion', url='https://t.me/TamilPrime_LinkZz')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -101,7 +101,7 @@ async def start(bot, cmd):
                 [
                     [
                         InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton('Discussion', url='https://t.me/MSPdiscussion')
+                        InlineKeyboardButton('Discussion', url='https://t.me/TamilPrime_LinkZz')
                     ],
                     [
                         InlineKeyboardButton("About", callback_data="about")
@@ -202,8 +202,8 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/MSPmoviesOffl'),
-            InlineKeyboardButton('Source Code', url='https://t.me/MSPbots')
+            InlineKeyboardButton('Update Channel', url='https://t.me/TamilPrime_LinkZz'),
+            InlineKeyboardButton('Source Code', url='https://t.me/Prime_BotZ')
         ]
         ]
     await message.reply(text="<b>Developer : <a href='https://t.me/BaashaBaii'>Baasha Baii</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://t.me/MSPbots'>Click here</a>\nHelp Group : <a href='https://t.me/MSPdiscussion'>MSP Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
