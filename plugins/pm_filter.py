@@ -272,11 +272,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='https://t.me/MSPmoviesOffl'),
-                    InlineKeyboardButton('Source Code', url='https://t.me/MSPbots')
+                    InlineKeyboardButton('Update Channel', url='https://t.me/TamilPrime_LinkZz),
+                    InlineKeyboardButton('Source Code', url='https://t.me/Prime_botZ')
                 ]
                 ]
-            await query.message.edit(text="<b>Developer : <a href='https://t.me/BaashaBaii'>Baasha Baii</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://t.me/MSPbots'>Click here</a>\nHelp Group : <a href='https://t.me/MSPdiscussion'>MSP Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Developer : <a href='https://t.me/TAMILAN_MK'>Villain</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://t.me/Prime_botZ'>Click here</a>\nHelp Group : <a href='https://t.me/TamilPrime_LinkZz'>Prime Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
